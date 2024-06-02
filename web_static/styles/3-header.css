@@ -1,0 +1,21 @@
+/* 3-header.css */
+
+header {
+	color: white;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px #CCCCCC;
+	align-items: left;
+	display: flex;
+	flex-direction: row;
+}
+
+div {
+	height: 50px;
+	background-Image: url("./images/logo.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	align-self: left;
+	margin-left: 20px;
+}
